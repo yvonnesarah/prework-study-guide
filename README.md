@@ -1,35 +1,46 @@
 # Prework Study Guide Webpage
 
-## Description
-This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+## 📌 Description
+The Prework Study Guide is a resource designed for boot camp students to help them review key concepts from their prework. It provides organized notes on HTML, CSS, Git, and JavaScript to support learning and preparation.
 
-## Prerequisites
-N/A
+## 🛠 Prerequisites
+No prerequisites are needed—this study guide is designed for beginners.
 
-## Technologies Used
-Built with:
+## 💻 Technologies Used
+This project was built using:
 * HTML
 * CSS
 * JavaScript
 
-## Installation
-N/A
+## 🚀 Installation
+No installation required—just open the webpage in your browser and start studying!
 
-## Usage
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+## 📚 Usage
+To use this Prework Study Guide:
+1. Review the notes in each section (HTML, CSS, Git, and JavaScript).
 
-## Project Link
+2. For study suggestions, open Chrome DevTools by pressing:
+* Command + Option + I (macOS)
+* Control + Shift + I (Windows)
+
+3. The console will display a list of topics along with a suggestion on what to study first.
+
+## 🔗 Live Demo & Repository
 Application can be viewed here: 
 * [Live](https://yvonnesarah.github.io/prework-study-guide/)
 
 * [Repository](https://github.com/yvonnesarah/prework-study-guide)
 
-## Screenshot
-Prework Study Guide Webpage
+## 🖼 Screenshot
+Below is a preview of the Prework Study Guide Webpage:
 ![Screenshot](assets/images/prework-study-guide.png "Prework Study Guide")
 
-## Credits
-N/A
+## 👥 Credits
+This project was created as part of a boot camp prework assignment.
 
-## License
-Please refer to the LICENSE in the repo.
+## 📜 License
+This project is open-source. For licensing details, please refer to the LICENSE file in the repository.
+
+## 📬 Contact
+You can reach me at 📧 yvonneadedeji.sarah@gmail.com.
+
