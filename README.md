@@ -6,6 +6,18 @@ The Prework Study Guide is a resource designed for boot camp students to help th
 ## 🛠 Prerequisites
 No prerequisites are needed—this study guide is designed for beginners.
 
+## 📋 Criteria
+This Prework Study Guide meets the following criteria:
+* Provides clear and concise notes on HTML, CSS, Git, and JavaScript.
+
+* Organizes content in an easy-to-navigate structure.
+
+* Includes interactive study recommendations via Chrome DevTools.
+
+* Requires no installation for accessibility and ease of use.
+
+* Offers a visually appealing and user-friendly design.
+
 ## 💻 Technologies Used
 This project was built using:
 * HTML
