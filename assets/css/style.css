@@ -1,43 +1,49 @@
+/* Reset default margin and padding for all elements */
 * {
     margin: 0;
     padding: 0;
-   }
-   
-   header,
-   footer {
-    width: 100%;
-    height: 120px;
-    background-color: blue;
-    color: white;
-   }
-   
-   h1,
-   h2 {
-    text-align: center;
-   }
-   
-   img {
-    display: block;
-    height: 50px;
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
-   }
-   
-   ul {
-    padding-left: 40px;
-    font-size: 20px;
-   }
-   
-   p {
-    text-align: center;
-    font-size: 30px;
-   }
+}
 
-   .card {
-    width: 80%;
-    margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888888;
-  }
-  
+/* Style for header and footer */
+header,
+footer {
+    width: 100%;               /* Set full width */
+    height: 120px;             /* Set height */
+    background-color: blue;    /* Set background color to blue */
+    color: white;              /* Set text color to white */
+}
+
+/* Center-align text for header and footer titles (h1, h2) */
+h1,
+h2 {
+    text-align: center;
+}
+
+/* Style for images */
+img {
+    display: block;            /* Make the image a block element */
+    height: 50px;              /* Set image height */
+    width: 50px;               /* Set image width */
+    margin-left: auto;         /* Center image horizontally (auto left margin) */
+    margin-right: auto;        /* Center image horizontally (auto right margin) */
+}
+
+/* Style for unordered lists */
+ul {
+    padding-left: 40px;        /* Add padding to the left of the list */
+    font-size: 20px;           /* Set font size */
+}
+
+/* Style for paragraphs */
+p {
+    text-align: center;        /* Center-align text */
+    font-size: 30px;           /* Set font size */
+}
+
+/* Style for card elements */
+.card {
+    width: 80%;                /* Set width to 80% of the parent container */
+    margin: 40px auto;         /* Center the card and add vertical margin */
+    border: 5px solid gray;    /* Add a 5px solid gray border */
+    box-shadow: 5px 10px #888888; /* Add a shadow with offset and color */
+}
